@@ -1,0 +1,41 @@
+---
+name: Feature Ideas Discussion
+about: Suggest and discuss ideas for potential future features
+title: "[Feature Idea] Your Idea Title"
+labels: feature-idea
+assignees: ''
+---
+
+## Feature Idea
+
+Briefly describe the feature idea you'd like to propose. What problem does it address or what enhancement does it provide?
+
+## Background
+
+Provide context for the feature idea. Why do you think this feature would be beneficial? Are there any existing challenges or opportunities that this feature could address?
+
+## Use Cases
+
+Explain how users might benefit from this feature. Include scenarios or use cases that showcase the value of implementing this feature.
+
+## Possible Implementation
+
+If you have any initial thoughts on how this feature could be implemented, share them here. However, keep in mind that this is a brainstorming discussion, and specific technical details may be ironed out later.
+
+## Open Discussion
+
+Feel free to share your thoughts, opinions, and suggestions related to this feature idea. Engage in constructive conversations about its potential impact, feasibility, and alternatives.
+
+## Guidelines
+
+Please adhere to the following guidelines while participating in this feature ideas discussion:
+
+- Be respectful and considerate of others' viewpoints.
+- Focus on discussing the idea itself, not individual preferences or opinions.
+- Encourage creativity and open-mindedness.
+- Back your comments with clear reasoning or examples when possible.
+- Keep the discussion friendly and welcoming.
+
+By participating in this discussion, you agree to abide by our [Code of Conduct](./CODE_OF_CONDUCT.md).
+
+**Note:** This discussion template is designed to facilitate the generation of feature ideas and encourage constructive conversations. Feel free to modify it to better suit your organization's needs.
